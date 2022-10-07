@@ -1,6 +1,6 @@
 # data_1_checks
 This is my README file for knowledge check 1
-Data in this knowlege check is obtained from http://winterolympicsmedals.com/medals.csv
+Data in this knowlege check is obtained from url = "http://zelda.fanapis.com/api/characters"
 
 Instructions:
 To complete the first knowledge check, do the following:
